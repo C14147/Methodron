@@ -1,5 +1,13 @@
 <RCC>
-  <qresource prefix="icons">
-    <file>Methodron.png</file>
+  <qresource prefix="ico">
+    <file>ico/icon.png</file>
+    <file>ico/Methodron-black.png</file>
+    <file>ico/Methodron-black-stroked.png</file>
+    <file>ico/Methodron-black-WhiteBG.png</file>
+    <file>ico/Methodron-blue.png</file>
+    <file>ico/Methodron-blue-stroked.png</file>
+    <file>ico/Methodron-blue-WhiteBG.png</file>
+    <file>ico/Methodron-gray.png</file>
+    <file>ico/Methodron-gray-WhiteBG.png</file>
   </qresource>
 </RCC>
